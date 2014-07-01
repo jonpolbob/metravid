@@ -1,0 +1,57 @@
+﻿<Window x:Class="MetroWPF.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:cap="http://schemas.sharpsoft.net/xaml"
+    xmlns:Vid="clr-namespace:MetraEdit;assembly=MetraEdit"
+    xmlns:l="clr-namespace:LiveImage;assembly=MetraVManager"        
+    Name="wnd"
+    Title="MetroWPF" Height="300" Width="300" Closing="wnd_Closing"  Loaded="wnd_Initialized" >
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20"></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="20"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200"></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Viewbox Margin="2,2,2,2" Grid.Column="1" Grid.Row="1" Stretch="Uniform" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+            <Viewbox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="{Binding ElementName=slider1, Path=Value}" ScaleY="{Binding ElementName=slider1, Path=Value}"></ScaleTransform>
+                    <TranslateTransform X="{Binding ElementName=slider2, Path=Value}" Y="{Binding ElementName=slider3, Path=Value}" ></TranslateTransform>
+                </TransformGroup>
+
+                
+            </Viewbox.RenderTransform>
+            <Grid Grid.Column="1">
+                <l:LiveImage Name="player" Stretch="None"/>
+                <Vid:VidCanvas  Background="Transparent" 
+                         MouseLeftButtonDown="MouseLDN" 
+                         MouseMove="MouseMOV" 
+                         MouseLeftButtonUp="MouseLUP" 
+                         HorizontalAlignment="Stretch"  
+                         Name="canvas1" 
+                         VerticalAlignment="Stretch" 
+                         >
+                </Vid:VidCanvas>
+          
+
+            </Grid>
+        </Viewbox>
+        <StackPanel Grid.Column="0" Grid.Row="1" Orientation="Vertical" Margin="0,0,46,0">
+            <Slider Value="1" Height="23" HorizontalAlignment="Left" Margin="10,10,0,0" Name="slider1" VerticalAlignment="Top" Width="100" Minimum=".3" Maximum="3"></Slider>
+            <Slider Value="0" Height="23" HorizontalAlignment="Left" Margin="10,10,0,0" Name="slider2" VerticalAlignment="Top" Width="100" Minimum="-100" Maximum="100"></Slider>
+            <Slider Value="0" Height="23" HorizontalAlignment="Left" Margin="10,10,0,0" Name="slider3" VerticalAlignment="Top" Width="100" Minimum="-100" Maximum="100"></Slider>
+            <TextBox Name="Xpos" HorizontalAlignment="Stretch"></TextBox>
+            <TextBox Name="Ypos" HorizontalAlignment="Stretch"></TextBox>
+
+            <Button Name="buttonreglage" Click="buttonreglage_Click">reglage</Button>
+            <Button Height="21.96" Name="button1" Width="154" Click="button1_Click">rectangle</Button>
+        </StackPanel>
+        <StatusBar Grid.ColumnSpan="3" Grid.Row="2">
+         </StatusBar>
+        <Menu Grid.ColumnSpan="3" Grid.Row="0"></Menu>
+    </Grid>    
+</Window>

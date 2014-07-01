@@ -1,0 +1,5 @@
+D:\ess2008\metravid\MetraVid\MetraEdit\bin\Debug\MetraEdit.dll
+D:\ess2008\metravid\MetraVid\MetraEdit\bin\Debug\MetraEdit.pdb
+D:\ess2008\metravid\MetraVid\MetraEdit\obj\Debug\ResolveAssemblyReference.cache
+D:\ess2008\metravid\MetraVid\MetraEdit\obj\Debug\MetraEdit.dll
+D:\ess2008\metravid\MetraVid\MetraEdit\obj\Debug\MetraEdit.pdb

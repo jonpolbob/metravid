@@ -1,0 +1,51 @@
+version 10 dite 1.10 metravid 11 jun 14
+
+version fusion editeur video, renommage des namespace et dll avec des noms en metraXXX
+
+
+
+
+version 7 : Metravid
+
+lit les avi en directshow et reboucle. 
+pasage de la visu en writablebitmap
+
+copmil en 32 et 64 bits
+
+ca semble aller vite
+
+
+
+version 6.0
+
+renommage des dll et exe, des espaces de noms, etc etc
+
+
+
+version 5.0
+
+ajout de l'overlay zoom sur tout ca. ca marche pas mal
+
+
+30/05/14
+
+
+passage de capvdevice acquisition directshow dans un module, derivation de cette acquisition d'une capture generique, sortie du thread de directshow.
+
+
+
+28/05/2014
+
+newavcapwpf :
+
+lit une image en 640 480, 'envoie dans la stack des images et l'affiche en sautant les images en trop
+
+reste a faire : le changement de taille d'image qui doit etre repercutee tout du long de la chaine
+faire marcher la boite de dialogue de reglage
+farire une acqusition generique
+rajouter le graphismme et tout le reste
+
+
+ver 4.0 : fonctionne en x64 et x32, pas e console. 
+
+modofier les projets si il faut rajouter des references, pour ditinguer le x86 du x64

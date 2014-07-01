@@ -1,0 +1,17 @@
+D:\ess2008\metravid\MetraVid\MetraVid\bin\x86\Debug\MetroWPF.exe
+D:\ess2008\metravid\MetraVid\MetraVid\bin\x86\Debug\MetroWPF.pdb
+D:\ess2008\metravid\MetraVid\MetraVid\bin\x86\Debug\MetraEdit.dll
+D:\ess2008\metravid\MetraVid\MetraVid\bin\x86\Debug\MetraVManager.dll
+D:\ess2008\metravid\MetraVid\MetraVid\bin\x86\Debug\PresentationCore.dll
+D:\ess2008\metravid\MetraVid\MetraVid\bin\x86\Debug\MetraEdit.pdb
+D:\ess2008\metravid\MetraVid\MetraVid\bin\x86\Debug\MetraVManager.pdb
+D:\ess2008\metravid\MetraVid\MetraVid\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ess2008\metravid\MetraVid\MetraVid\obj\x86\Debug\MainWindow.baml
+D:\ess2008\metravid\MetraVid\MetraVid\obj\x86\Debug\MainWindow.g.cs
+D:\ess2008\metravid\MetraVid\MetraVid\obj\x86\Debug\App.g.cs
+D:\ess2008\metravid\MetraVid\MetraVid\obj\x86\Debug\MetroWPF_MarkupCompile.cache
+D:\ess2008\metravid\MetraVid\MetraVid\obj\x86\Debug\MetroWPF.g.resources
+D:\ess2008\metravid\MetraVid\MetraVid\obj\x86\Debug\Properties.Resources.resources
+D:\ess2008\metravid\MetraVid\MetraVid\obj\x86\Debug\MetraVid.csproj.GenerateResource.Cache
+D:\ess2008\metravid\MetraVid\MetraVid\obj\x86\Debug\MetroWPF.exe
+D:\ess2008\metravid\MetraVid\MetraVid\obj\x86\Debug\MetroWPF.pdb
