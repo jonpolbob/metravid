@@ -1,3 +1,13 @@
+
+PREMIERE VERSION EN GIT
+
+LA VERSION EN GIT EST CELLE PROVENANT DU ZIP DE SAUVEGARDE : metravid2-06 14 .zip
+
+
+seul ce fichier evolution.txt a ete modifie
+
+
+
 version 10 dite 1.10 metravid 11 jun 14
 
 version fusion editeur video, renommage des namespace et dll avec des noms en metraXXX
