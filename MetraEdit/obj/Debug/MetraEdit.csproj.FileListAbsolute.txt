@@ -3,3 +3,8 @@ D:\ess2008\metravid\MetraVid\MetraEdit\bin\Debug\MetraEdit.pdb
 D:\ess2008\metravid\MetraVid\MetraEdit\obj\Debug\ResolveAssemblyReference.cache
 D:\ess2008\metravid\MetraVid\MetraEdit\obj\Debug\MetraEdit.dll
 D:\ess2008\metravid\MetraVid\MetraEdit\obj\Debug\MetraEdit.pdb
+F:\essais\metravid ici\metravid\MetraEdit\bin\Debug\MetraEdit.dll
+F:\essais\metravid ici\metravid\MetraEdit\bin\Debug\MetraEdit.pdb
+F:\essais\metravid ici\metravid\MetraEdit\obj\Debug\ResolveAssemblyReference.cache
+F:\essais\metravid ici\metravid\MetraEdit\obj\Debug\MetraEdit.dll
+F:\essais\metravid ici\metravid\MetraEdit\obj\Debug\MetraEdit.pdb

@@ -7,3 +7,12 @@ D:\ess2008\metravid\MetraVid\MetraCap\obj\x86\Debug\MetaVMgr.Properties.Resource
 D:\ess2008\metravid\MetraVid\MetraCap\obj\x86\Debug\MetraVManager.csproj.GenerateResource.Cache
 D:\ess2008\metravid\MetraVid\MetraCap\obj\x86\Debug\MetraVManager.dll
 D:\ess2008\metravid\MetraVid\MetraCap\obj\x86\Debug\MetraVManager.pdb
+F:\essais\metravid ici\metravid\MetraCap\bin\x86\Debug\MetraVManager.dll
+F:\essais\metravid ici\metravid\MetraCap\bin\x86\Debug\MetraVManager.pdb
+F:\essais\metravid ici\metravid\MetraCap\bin\x86\Debug\PresentationCore.dll
+F:\essais\metravid ici\metravid\MetraCap\bin\x86\Debug\System.Core.dll
+F:\essais\metravid ici\metravid\MetraCap\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\essais\metravid ici\metravid\MetraCap\obj\x86\Debug\MetaVMgr.Properties.Resources.resources
+F:\essais\metravid ici\metravid\MetraCap\obj\x86\Debug\MetraVManager.csproj.GenerateResource.Cache
+F:\essais\metravid ici\metravid\MetraCap\obj\x86\Debug\MetraVManager.dll
+F:\essais\metravid ici\metravid\MetraCap\obj\x86\Debug\MetraVManager.pdb
